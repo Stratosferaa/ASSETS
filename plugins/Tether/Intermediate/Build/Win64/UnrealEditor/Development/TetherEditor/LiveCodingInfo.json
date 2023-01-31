@@ -1,0 +1,33 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.TetherEditor.cpp.obj": [
+			"CablePropertiesMaterialList.cpp.obj",
+			"CablePropertiesStructCustomization.cpp.obj",
+			"STetherModeControls.cpp.obj",
+			"STetherModeViewportOverlay.cpp.obj",
+			"TetherEditorAutomation.cpp.obj",
+			"TetherEditorTests.cpp.obj",
+			"TetherSimulationTests.cpp.obj",
+			"TetherTestModeSettings.cpp.obj",
+			"TetherCableActorDetails.cpp.obj",
+			"TetherCableActorModeControlDetails.cpp.obj",
+			"TetherCablePointDetails.cpp.obj",
+			"TetherDetailUtils.cpp.obj",
+			"TetherEditor.cpp.obj",
+			"TetherEditorLogs.cpp.obj",
+			"TetherEditorStatics.cpp.obj",
+			"TetherEdMode.cpp.obj",
+			"TetherGuideSplineComponentVisualizer.cpp.obj",
+			"TetherModeSettings.cpp.obj",
+			"TetherModeToolkit.cpp.obj",
+			"TetherPromptText.cpp.obj",
+			"TetherEditorDebug.cpp.obj"
+		],
+		"Module.TetherEditor.gen.cpp.obj": [
+			"TetherEditor.init.gen.cpp.obj",
+			"TetherModeSettings.gen.cpp.obj",
+			"TetherTestModeSettings.gen.cpp.obj"
+		]
+	}
+}
