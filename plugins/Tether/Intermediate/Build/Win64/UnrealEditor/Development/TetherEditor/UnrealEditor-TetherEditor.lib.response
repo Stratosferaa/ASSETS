@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-TetherEditor.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\LEVELZERO\LZ_Trailer\Intermediate\Build\Win64\UnrealEditor\Development\UnrealEd\SharedPCH.UnrealEd.ShadowErrors.h.obj"
+"D:\LEVELZERO\LZ_Trailer\Plugins\Tether\Intermediate\Build\Win64\UnrealEditor\Development\TetherEditor\Module.TetherEditor.cpp.obj"
+"D:\LEVELZERO\LZ_Trailer\Plugins\Tether\Intermediate\Build\Win64\UnrealEditor\Development\TetherEditor\Module.TetherEditor.gen.cpp.obj"
+"D:\LEVELZERO\LZ_Trailer\Plugins\Tether\Intermediate\Build\Win64\UnrealEditor\Development\TetherEditor\Default.rc2.res"
+/OUT:"D:\LEVELZERO\LZ_Trailer\Plugins\Tether\Intermediate\Build\Win64\UnrealEditor\Development\TetherEditor\UnrealEditor-TetherEditor.lib"

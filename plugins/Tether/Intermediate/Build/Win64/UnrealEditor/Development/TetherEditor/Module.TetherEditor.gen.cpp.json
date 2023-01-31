@@ -1,0 +1,40 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\development\\tethereditor\\module.tethereditor.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\levelzero\\lz_trailer\\intermediate\\build\\win64\\unrealeditor\\development\\unrealed\\sharedpch.unrealed.shadowerrors.h.pch",
+        "Includes": [
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\development\\tethereditor\\definitions.tethereditor.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tethereditor\\tethereditor.init.gen.cpp",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tethereditor\\tethermodesettings.gen.cpp",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tethereditor\\public\\tethermodesettings.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tethereditor\\public\\tethercableactordetails.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\editor\\propertyeditor\\public\\idetailcustomization.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\tethercableproperties.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\mesh\\basicmeshproperties.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\mesh\\basicmeshgenerationoptions.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\basicmeshgenerationoptions.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\basicmeshproperties.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\mesh\\cablemeshgenerationtype.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\mesh\\tethermeshgenerator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\noexporttypes.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\coreuobject\\public\\uobject\\propertyaccessutil.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\math\\unitconversion.inl",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\core\\public\\internationalization\\polyglottextdata.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\tethermeshgenerator.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\mesh\\tmg_custommesh.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\tmg_custommesh.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tether\\public\\simulation\\tethercablesimulationoptions.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\tethercablesimulationoptions.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tether\\tethercableproperties.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tethereditor\\tethermodesettings.generated.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tethereditor\\tethertestmodesettings.gen.cpp",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\source\\tethereditor\\public\\tests\\tethertestmodesettings.h",
+            "d:\\levelzero\\lz_trailer\\plugins\\tether\\intermediate\\build\\win64\\unrealeditor\\inc\\tethereditor\\tethertestmodesettings.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
